@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Wanna×Wanna Fever",
+  "base_artist": "SiLENT←NOiSE",
+  "createdAt": "2026-03-13T03:19:27.197564Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wanna×Wanna Fever",
+      "artist": "SiLENT←NOiSE",
+      "has_synced": false,
+      "path": "select/pl_01_Wanna×Wanna_Fever_SiLENT←NOiSE.txt"
+    }
+  ]
+}
